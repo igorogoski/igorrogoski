@@ -1,0 +1,20 @@
+:root{
+    --roxo: #cfbad8
+}
+
+
+body{
+    background-color: var(--roxo);
+}
+
+/*comentátios */
+
+img{
+    width: 10%;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justufy-content: sapace-around;
+}
